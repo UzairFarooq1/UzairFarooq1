@@ -1,5 +1,5 @@
 <p align="center" width = "500px">
-  <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=740&t=st=1708077282~exp=1708077882~hmac=4153a4081125a534d7b9f82bdf2ef0409b4778a0114ca454d57e309f37e321a4" alt="Second Image" width="700" height="400" />
+  <img src="https://t4.ftcdn.net/jpg/02/55/73/15/360_F_255731595_eG8ZerN19GVsoXqnqaExufXIiWmfDcih.jpg" alt="Second Image"  />
 </p>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Uzair Farooq
