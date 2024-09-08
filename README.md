@@ -10,7 +10,7 @@ Full Stack Web Developer passionate about turning innovative ideas into reality 
 Aspiring IT professional passionate about coding and building innovative solutions. Currently pursuing a degree in Business Information Technology.
 
 * 🌍  I'm based in Kenya
-* 🖥️  See my portfolio at [https://uzairportfolio.tech](http://uzairdevportfolio.tech)
+* 🖥️  See my portfolio at [https://uzairportfolio.tech](http://uzairportfolio.tech)
 * 🧠  I'm learning Next.js and Supabase
 * 🤝  I'm open to collaborating on interesting projects
 
